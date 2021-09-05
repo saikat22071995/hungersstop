@@ -101,7 +101,7 @@ const Home = () => {
           <h1 className="heading"> most <span>popular</span> foods </h1>
           <div className="box-container">
             <div className="box">
-              <span className="price"> $5 - $20 </span>
+              <span className="price"> ₹40 - ₹100 </span>
               <img src="../../images/p-1.jpg" alt="" />
               <h3>tasty burger</h3>
               <div className="stars">
@@ -114,7 +114,7 @@ const Home = () => {
               <a href="#" className="btn">order now</a>
             </div>
             <div className="box">
-              <span className="price"> $5 - $20 </span>
+              <span className="price"> ₹40 - ₹100 </span>
               <img src="../../images/p-2.jpg" alt="" />
               <h3>tasty cakes</h3>
               <div className="stars">
@@ -127,7 +127,7 @@ const Home = () => {
               <a href="#" className="btn">order now</a>
             </div>
             <div className="box">
-              <span className="price"> $5 - $20 </span>
+              <span className="price"> ₹40 - ₹100 </span>
               <img src="../../images/p-3.jpg" alt="" />
               <h3>tasty sweets</h3>
               <div className="stars">
@@ -140,7 +140,7 @@ const Home = () => {
               <a href="#" className="btn">order now</a>
             </div>
             <div className="box">
-              <span className="price"> $5 - $20 </span>
+              <span className="price"> ₹40 - ₹100 </span>
               <img src="../../images/p-4.jpg" alt="" />
               <h3>tasty cupcakes</h3>
               <div className="stars">
@@ -153,7 +153,7 @@ const Home = () => {
               <a href="#" className="btn">order now</a>
             </div>
             <div className="box">
-              <span className="price"> $5 - $20 </span>
+              <span className="price"> ₹40 - ₹100 </span>
               <img src="../../images/p-5.jpg" alt="" />
               <h3>cold drinks</h3>
               <div className="stars">
@@ -166,7 +166,7 @@ const Home = () => {
               <a href="#" className="btn">order now</a>
             </div>
             <div className="box">
-              <span className="price"> $5 - $20 </span>
+              <span className="price"> ₹40 - ₹100 </span>
               <img src="../../images/p-6.jpg" alt="" />
               <h3>cold ice-cream</h3>
               <div className="stars">
