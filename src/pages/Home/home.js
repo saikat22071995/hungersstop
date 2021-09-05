@@ -21,7 +21,7 @@ const Home = () => {
           <div id="menu-bar" className="fas fa-bars" />
           <nav className="navbar">
             <a href="#home">home</a>
-            <a href="#speciality">Speciality</a>
+            <a href="#speciality">Specialityy</a>
             <a href="#popular">popular</a>
             <a href="#gallery">Gallery</a>
             <a href="#review">Review</a>
