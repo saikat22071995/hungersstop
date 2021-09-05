@@ -357,7 +357,7 @@ const Home = () => {
             <a href="#" className="btn">pinterest</a>
             <a href="#" className="btn">linkedin</a>
           </div>
-          <h1 className="credit"> created by <span> mr. web designer </span> | all rights reserved! </h1>
+          <h1 className="credit"> created by <span> mr. saikat paul </span> | all rights reserved! | 7407453877</h1>
         </section>
         {/* scroll top button  */}
         <a href="#home" className="fas fa-angle-up" id="scroll-top" />
